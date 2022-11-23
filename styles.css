@@ -9,5 +9,5 @@ body {
 }
 
 .gallery{
-    float:left;
+    display:inline-block;
 }

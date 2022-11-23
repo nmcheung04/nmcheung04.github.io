@@ -10,10 +10,13 @@ body {
 
 .gallery1{
     float:left;
+    margin:20px;
 }
 .gallery2{
-    float:center;
+    float:left;
+    margin:20px;
 }
 .gallery3{
-    float:right;
+    float:left;
+    margin:20px;
 }

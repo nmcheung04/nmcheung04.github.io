@@ -6,18 +6,8 @@ body {
 
 .desc{
     text-align:center; 
-    font-size:small;
 }
 
-.gallery1{
-    float:left;
-    margin:20px;
-}
-.gallery2{
-    float:left;
-    margin:20px;
-}
-.gallery3{
-    float:left;
-    margin:20px;
+.gallery{
+    width:500px;
 }

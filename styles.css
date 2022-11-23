@@ -11,4 +11,5 @@ body {
 
 .gallery{
     width:500px;
+    float:left;
 }
